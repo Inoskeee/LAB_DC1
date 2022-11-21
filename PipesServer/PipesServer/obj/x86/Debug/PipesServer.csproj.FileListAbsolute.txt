@@ -1,0 +1,34 @@
+c:\users\alexander\documents\visual studio 2010\Projects\PipesServer\PipesServer\obj\x86\Debug\PipesServer.Properties.Resources.resources
+c:\users\alexander\documents\visual studio 2010\Projects\PipesServer\PipesServer\obj\x86\Debug\Pipes.frmMain.resources
+c:\users\alexander\documents\visual studio 2010\Projects\PipesServer\PipesServer\obj\x86\Debug\PipesServer.csproj.GenerateResource.Cache
+c:\users\alexander\documents\visual studio 2010\Projects\PipesServer\PipesServer\bin\Debug\PipesServer.exe
+c:\users\alexander\documents\visual studio 2010\Projects\PipesServer\PipesServer\bin\Debug\PipesServer.pdb
+c:\users\alexander\documents\visual studio 2010\Projects\PipesServer\PipesServer\obj\x86\Debug\PipesServer.exe
+c:\users\alexander\documents\visual studio 2010\Projects\PipesServer\PipesServer\obj\x86\Debug\PipesServer.pdb
+C:\Users\Alexander\Desktop\12345\New\PipesServer\PipesServer\obj\x86\Debug\PipesServer.exe
+C:\Users\Alexander\Desktop\12345\New\PipesServer\PipesServer\obj\x86\Debug\PipesServer.pdb
+E:\HSE\РВ\1_Pipes\PipesServer\PipesServer\bin\Debug\PipesServer.exe
+E:\HSE\РВ\1_Pipes\PipesServer\PipesServer\bin\Debug\PipesServer.pdb
+E:\HSE\РВ\1_Pipes\PipesServer\PipesServer\bin\Debug\mscorlib.dll
+E:\HSE\РВ\1_Pipes\PipesServer\PipesServer\bin\Debug\ru\mscorlib.resources.dll
+E:\HSE\РВ\1_Pipes\PipesServer\PipesServer\bin\Debug\sortkey.nlp
+E:\HSE\РВ\1_Pipes\PipesServer\PipesServer\bin\Debug\sorttbls.nlp
+E:\HSE\РВ\1_Pipes\PipesServer\PipesServer\bin\Debug\big5.nlp
+E:\HSE\РВ\1_Pipes\PipesServer\PipesServer\bin\Debug\bopomofo.nlp
+E:\HSE\РВ\1_Pipes\PipesServer\PipesServer\bin\Debug\ksc.nlp
+E:\HSE\РВ\1_Pipes\PipesServer\PipesServer\bin\Debug\prc.nlp
+E:\HSE\РВ\1_Pipes\PipesServer\PipesServer\bin\Debug\prcp.nlp
+E:\HSE\РВ\1_Pipes\PipesServer\PipesServer\bin\Debug\xjis.nlp
+E:\HSE\РВ\1_Pipes\PipesServer\PipesServer\bin\Debug\normidna.nlp
+E:\HSE\РВ\1_Pipes\PipesServer\PipesServer\bin\Debug\normnfc.nlp
+E:\HSE\РВ\1_Pipes\PipesServer\PipesServer\bin\Debug\normnfd.nlp
+E:\HSE\РВ\1_Pipes\PipesServer\PipesServer\bin\Debug\normnfkc.nlp
+E:\HSE\РВ\1_Pipes\PipesServer\PipesServer\bin\Debug\normnfkd.nlp
+E:\HSE\РВ\1_Pipes\PipesServer\PipesServer\obj\x86\Debug\PipesServer.csproj.AssemblyReference.cache
+E:\HSE\РВ\1_Pipes\PipesServer\PipesServer\obj\x86\Debug\PipesServer.Properties.Resources.resources
+E:\HSE\РВ\1_Pipes\PipesServer\PipesServer\obj\x86\Debug\Pipes.frmMain.resources
+E:\HSE\РВ\1_Pipes\PipesServer\PipesServer\obj\x86\Debug\PipesServer.csproj.GenerateResource.cache
+E:\HSE\РВ\1_Pipes\PipesServer\PipesServer\obj\x86\Debug\PipesServer.csproj.CoreCompileInputs.cache
+E:\HSE\РВ\1_Pipes\PipesServer\PipesServer\obj\x86\Debug\PipesServer.csproj.CopyComplete
+E:\HSE\РВ\1_Pipes\PipesServer\PipesServer\obj\x86\Debug\PipesServer.exe
+E:\HSE\РВ\1_Pipes\PipesServer\PipesServer\obj\x86\Debug\PipesServer.pdb
